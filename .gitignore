@@ -1,2 +1,6 @@
 venv
-./chrome_langchain_db
+./chrome_langchain_db/
+# Persisted Chroma DB (do not commit)
+.DS_Store
+__pycache__/
+.env
